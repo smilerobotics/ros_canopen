@@ -7,7 +7,7 @@
 #include <atomic>
 #include <functional>
 #include <boost/thread/mutex.hpp>
-#include <filters/filter_chain.h>
+#include <filters/filter_chain.hpp>
 #include <hardware_interface/joint_command_interface.h>
 #include <hardware_interface/joint_state_interface.h>
 #include <joint_limits_interface/joint_limits_interface.h>
